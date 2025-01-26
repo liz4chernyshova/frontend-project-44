@@ -13,10 +13,22 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "readline-sync": "^1.4.10"
   },
   "devDependencies": {
-    "eslint": "^9.19.0",
+    "@eslint/create-config": "^1.0.0",
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.31.0",
     "jest": "^29.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liz4chernyshova/frontend-project-44.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liz4chernyshova/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/liz4chernyshova/frontend-project-44#readme"
 }
