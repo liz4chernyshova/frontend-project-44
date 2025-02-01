@@ -23,6 +23,8 @@
 2. Запустите игру:
    brain-calc
 
+[![asciicast](https://asciinema.org/a/Neq1hNhOi6GPw0jSvV8NnRFoE.svg)](https://asciinema.org/a/Neq1hNhOi6GPw0jSvV8NnRFoE)
+
 ## Игра: "НОД"
 
 Для установки и запуска игры выполните следующие команды:
