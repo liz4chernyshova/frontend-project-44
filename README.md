@@ -58,3 +58,5 @@
 
 2. Запустите игру:
    brain-prime
+
+[![asciicast](https://asciinema.org/a/xOAFk6x6tfElVVc2ITBiG3XTd.svg)](https://asciinema.org/a/xOAFk6x6tfElVVc2ITBiG3XTd)
