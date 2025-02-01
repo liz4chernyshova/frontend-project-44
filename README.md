@@ -9,7 +9,7 @@
    npm install .
 
 2. Запустите игру:
-    brain-even
+   brain-even
 
 ## Игра: "Калькулятор"
 
@@ -19,7 +19,7 @@
    npm install .
 
 2. Запустите игру:
-    brain-calc
+   brain-calc
 
 ## Игра: "НОД"
 
@@ -29,7 +29,7 @@
    npm install .
 
 2. Запустите игру:
-    brain-gcd
+   brain-gcd
 
 ## Игра: "Арифметическая прогрессия"
 
@@ -39,4 +39,14 @@
    npm install .
 
 2. Запустите игру:
-    brain-progression
+   brain-progression
+
+## Игра "Простое ли число?"
+
+Для установки и запуска игры выполните следующие команды:
+
+1. Установите пакет:
+   npm install .
+
+2. Запустите игру:
+   brain-prime
