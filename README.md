@@ -11,6 +11,8 @@
 2. Запустите игру:
    brain-even
 
+[![asciicast](https://asciinema.org/a/FdLZPR4doAOrrgNyW8nYdOzPn.svg)](https://asciinema.org/a/FdLZPR4doAOrrgNyW8nYdOzPn)
+
 ## Игра: "Калькулятор"
 
 Для установки и запуска игры выполните следующие команды:
