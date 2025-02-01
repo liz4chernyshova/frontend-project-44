@@ -47,6 +47,8 @@
 2. Запустите игру:
    brain-progression
 
+[![asciicast](https://asciinema.org/a/BXwF2qFRKh2nuixEmahzGYXQk.svg)](https://asciinema.org/a/BXwF2qFRKh2nuixEmahzGYXQk)
+
 ## Игра "Простое ли число?"
 
 Для установки и запуска игры выполните следующие команды:
