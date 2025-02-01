@@ -35,6 +35,8 @@
 2. Запустите игру:
    brain-gcd
 
+[![asciicast](https://asciinema.org/a/SZUaAHxehTfiS1gA5gbYsYmUP.svg)](https://asciinema.org/a/SZUaAHxehTfiS1gA5gbYsYmUP)
+
 ## Игра: "Арифметическая прогрессия"
 
 Для установки и запуска игры выполните следующие команды:
